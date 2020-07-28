@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Ciências",
+      "link": "https://pt.wikipedia.org/wiki/Ci%C3%AAncia",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Videos sobre Ciencias Exatas, Humanas e Biológicas",
+        "url": "https://www.youtube.com/channel/UCqiD87j08pe5NYPZ-ncZw2w"
+      },
+      "videos": [
+        {
+          "titulo": "É só uma teoria | Nerdologia",
+          "url": "https://youtu.be/kyGu9lTr_jM"
+        },
+        {
+          "titulo": "O Que É Energia? | Episódio 1",
+          "url": "https://youtu.be/3VLPyOLC1nc"
+        },
+        {
+          "titulo": "Chegou a Hora!!! Vamos Observar Um Buraco Negro - Space Today TV Ep.614",
+          "url": "https://youtu.be/NFRk-1yq86Y"
+        },
+        {
+          "titulo": "A maldição da mente descontínua (#Pirula 20)",
+          "url": "https://youtu.be/m_LsMe4XWmA"
+        },
+        {
+          "titulo": "Campos de concentração no Ceará",
+          "url": "https://youtu.be/NLAdRwgBggg"
+        },
+        {
+          "titulo": "Entenda a Tumba do Faraó Tutankhamon!",
+          "url": "https://youtu.be/gRII1QkrVHY"
+        },
+        {
+          "titulo": "DEUS. | Canal do Slow 57",
+          "url": "https://youtu.be/cy9gV2nN8rI"
+        },
+        {
+          "titulo": "A Rebeldia dos Elétrons | Desmistificando a Física Quântica #01",
+          "url": "https://youtu.be/8A8TE5JbqJA"
+        }        
+      ]
+    },
+    {
+      "titulo": "Filosofia",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Pensar, Refletir e Aprender",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "ALDOUS HUXLEY e o Admirável Mundo Novo",
+          "url": "https://youtu.be/h27hzrxCOY8"
+        },
+        {
+          "titulo": "Thor e Tocqueville | Carniceiros e Aristocratas",
+          "url": "https://youtu.be/aYwXYpTmT98"
+        },
+        {
+          "titulo": "LEVIATÃ - Monstros Marinhos, Déspotas e a Natureza Humana",
+          "url": "https://youtu.be/NAs0zHWShas"
+        },
+        {
+          "titulo": "Como interpretar um texto? | mimimidias",
+          "url": "https://youtu.be/fzWU-IKbMUE"
+        }, 
+        {
+          "titulo": "Estudos",
+          "url": "https://youtu.be/gXsFyi0EXX0"
+        }
+      ]
+    },
+    {
+      "titulo": "Música",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Alucinação - Belchior [lofi remix]",
+        "url": "https://youtu.be/Sz94Oi-7IBo"
+      },
+      "videos": [
+        {
+          "titulo": "Sujeito de Sorte - Belchior [lofi remix]",
+          "url": "https://youtu.be/7iQuSOQZwzQ"
+        },
+        {
+          "titulo": "AmarElo (Sample: Sujeito de Sorte - Belchior)",
+          "url": "https://youtu.be/spmmkWmJ3ck"
+        },
+        {
+          "titulo": "ＣＡＬＩＣＥ 　(Lo-Fi Remix)",
+          "url": "https://youtu.be/rIT6W9qWiac"
+        },
+        {
+          "titulo": "Stand Away (Orchestral Version)",
+          "url": "https://youtu.be/zGwR2nIW0qw"
+        },
+        {
+          "titulo": "Angra - Late Redemption",
+          "url": "https://youtu.be/6lRo5mxhxa0"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Coração De Cavaleiro",
+          "url": "https://youtu.be/_J5rJqiUiBA"
+        },
+        {
+          "titulo": "The Imitation Game (2014)",
+          "url": "https://youtu.be/nuPZUUED5uk"
+        },
+        {
+          "titulo": "The Lord of the Rings: The Fellowship of the Ring",
+          "url": "https://youtu.be/V75dMMIW2B4"
+        },
+        {
+          "titulo": "Pacific Rim Uprising - 1975 (Nerdist Remix)",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "The Witcher 3: Wild Hunt",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "Age of Mythology versão Dublada",
+          "url": "https://youtu.be/p0BUtEH1HqY"
+        },
+        {
+          "titulo": "Resident Evil 4 ",
+          "url": "https://youtu.be/1KTghW30ZuY"
+        }
+      ]
+    },
+    {
+      "titulo": "Canais de Tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Diferentes canais com conteúdo de react/react-native",
+        "url": "https://pt-br.reactjs.org/"
+      },
+      "videos": [
+        {
+          "titulo": "Alura - O que é React JS?",
+          "url": "https://youtu.be/6IuQUgeDPg0"
+        },
+        {
+          "titulo": "Rocketseat - TypeScript com ReactJS, Redux e Redux Saga | Diego Fernandes",
+          "url": "https://youtu.be/OXxul6AvXNs"
+        },
+        {
+          "titulo": "Cod3r Cursos - React JS Curso Rápido ⚛ Masterclass #1 2020 - 100% Prático!",
+          "url": "https://youtu.be/XQxitgyZ_S4"
+        },
+        {
+          "titulo": "Origamid - React para Iniciantes",
+          "url": "https://youtu.be/iIQOtwsWXqU"
+        },
+        {
+          "titulo": "Adrian Twarog - Styled Components React Tutorial: CSS in JS!",
+          "url": "https://youtu.be/eQkkoUEVY-Q"
+        }
+      ]
+    }
+  ]
+}
